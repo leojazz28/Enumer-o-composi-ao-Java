@@ -1,4 +1,4 @@
-public enum WorkLevel {
+public enum WorkerLevel {
     JUNIOR,
     MID_LEVEL,
     SENIOR;
